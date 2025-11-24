@@ -5,7 +5,7 @@
 The UEDX24320028E-WB is a 2.8-inch 240×320 capacitive-touch smart display powered by the ESP32-S3. It features built-in Wi-Fi & BLE 5, high-capacity Flash/PSRAM, and an optimized UART protocol, making it a powerful solution for rapid HMI and IoT development.
 
 <p align="center" width="80%">
-    <img src="images/view_2.8.jpg" alt="">
+    <img src="images/viewe_2.8.jpg" alt="">
 </p>
 
 ## Links
@@ -17,7 +17,7 @@ Here you can find additional relevant information such as datasheets and schemat
 
 ## Hardware Features
 
-- ESP32-S3-N16R8, 16 MB Flash + 8 MB PSRAM (520 KB SRAM / 448 KB ROM)
+- ESP32-S3-N16R8, i n16 MB Flash + 8 MB PSRAM (520 KB SRAM / 448 KB ROM)
 - Type C USB programming port
 - 2.8" TFT Touch 240×320 resolution
 - MicroSD card slot
